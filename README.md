@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simple53
 - 👀 I’m a interested in genome construction and sex chromosome evolution
 - 🌱 I’m currently learning ChIP-seq and HiC
-- 📫 How to reach me Xinpeizhang@zju.edu.cn
+- 📫 How to reach me Xinple53@Gmail.com
 
 <!---
 Simple53/Simple53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
