@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simple53
-- 👀 I’m a interested in genome construction and sex chromosome evolution
+- 👀 I’m interested in genome construction and sex chromosome evolution
 - 🌱 I’m currently learning ChIP-seq and HiC
 - 📫 How to reach me Xinple53@gmail.com
 
